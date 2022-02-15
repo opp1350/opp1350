@@ -12,4 +12,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opp1350&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :seedling: Studying
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=morgon500)]
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=morgon500)
