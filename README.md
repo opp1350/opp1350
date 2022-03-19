@@ -5,8 +5,6 @@
 * Adobe programs (AI, PS, XD)
 
 
-...And I am interested in React JS, Typescript.
-
 ![opp1350's github stats](https://github-readme-stats.vercel.app/api?username=opp1350)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opp1350&layout=compact)
