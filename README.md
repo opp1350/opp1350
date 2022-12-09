@@ -1,9 +1,7 @@
 ### Skills
 * HTML, CSS(Sass/Scss)
-* Javascript (I’m currently learning ES6+)
+* Javascript
 * Vue.js
-* Adobe programs (AI, PS, XD)
-
 
 ![opp1350's github stats](https://github-readme-stats.vercel.app/api?username=opp1350)
 
